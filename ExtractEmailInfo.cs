@@ -15,7 +15,7 @@
 
 //         public static void Main(String[] args)
 //         {
-//             string[] emailParts = SplitEmail("maria123@gmail.com");
+//             string[] emailParts = SplitEmail("maria123@gmail.com.br");
 //             bool isBrazilian = ValidateDomainEmail(emailParts[1]);
 //             PrintEmailInfo(emailParts, isBrazilian);
 
