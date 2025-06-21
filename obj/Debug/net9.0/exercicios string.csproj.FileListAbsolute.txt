@@ -12,3 +12,4 @@ C:\Users\otavi\OneDrive\Desktop\exercicios string\obj\Debug\net9.0\refint\exerci
 C:\Users\otavi\OneDrive\Desktop\exercicios string\obj\Debug\net9.0\exercicios string.pdb
 C:\Users\otavi\OneDrive\Desktop\exercicios string\obj\Debug\net9.0\exercicios string.genruntimeconfig.cache
 C:\Users\otavi\OneDrive\Desktop\exercicios string\obj\Debug\net9.0\ref\exercicios string.dll
+C:\Users\otavi\OneDrive\Desktop\exercicios string\obj\Debug\net9.0\exercicios string.sourcelink.json
